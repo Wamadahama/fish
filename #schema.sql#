@@ -35,7 +35,6 @@ create table lure_type(
        type varchar(100)
 )
 
-
 create table environment(
        id integer primary key autoincrement,
        /* weather stuff */
